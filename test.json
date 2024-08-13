@@ -1,0 +1,154 @@
+{
+  "cfgname": "test",
+  "cfgdescription": "Local",
+  "date": "2024-08-10",
+  "Modules": {
+    "TestColorTween": {
+      "toggled": false,
+      "key": 0,
+      "Properties": {
+        "Speed": 1000.0,
+        "Color1 Red": 255.0,
+        "Color1 Green": 255.0,
+        "Color1 Blue": 255.0,
+        "Color1 Alpha": 255.0,
+        "Color2 Red": 0.0,
+        "Color2 Green": 0.0,
+        "Color2 Blue": 0.0,
+        "Color2 Alpha": 255.0
+      }
+    },
+    "ChestStealer": {
+      "toggled": false,
+      "key": 44,
+      "Properties": {
+        "Delay": 44.0,
+        "Silent": false,
+        "Bad Items": true,
+        "Auto Close": true
+      }
+    },
+    "NameTags": {
+      "toggled": true,
+      "key": 0
+    },
+    "ForceOP": {
+      "toggled": false,
+      "key": 0
+    },
+    "ClickGui": {
+      "toggled": false,
+      "key": 210,
+      "Properties": {
+        "Mode": "Myth"
+      }
+    },
+    "Scaffold": {
+      "toggled": false,
+      "key": 34,
+      "Properties": {
+        "Delay": 0.0,
+        "Safewalk": false
+      }
+    },
+    "ResetVL": {
+      "toggled": false,
+      "key": 0
+    },
+    "Velocity": {
+      "toggled": true,
+      "key": 0,
+      "Properties": {
+        "Mode": "Normal",
+        "Horizontal": 0.0,
+        "Vertical": 0.0
+      }
+    },
+    "AntiBot": {
+      "toggled": false,
+      "key": 0,
+      "Properties": {
+        "Mode": "TabList"
+      }
+    },
+    "Killaura": {
+      "toggled": false,
+      "key": 19,
+      "Properties": {
+        "Sorting Settings": true,
+        "Mode": "Single",
+        "Switch Delay": 855.0,
+        "Sorting Mode": "Distance",
+        "Targets Settings": true,
+        "Player": true,
+        "Animals": true,
+        "Mobs": false,
+        "Invisible": false,
+        "Wall": true,
+        "Attack Settings": true,
+        "Method": "Packet",
+        "Attack Range": 3.93,
+        "Randomize CPS": true,
+        "CPS": 15.78,
+        "Max CPS": 14.09,
+        "Min CPS": 11.98,
+        "RayCast": false,
+        "AutoBlock": true,
+        "AutoBlock Delay": 45.36
+      }
+    },
+    "NoSlow": {
+      "toggled": false,
+      "key": 0
+    },
+    "Teams": {
+      "toggled": false,
+      "key": 0
+    },
+    "Speed": {
+      "toggled": false,
+      "key": 45,
+      "Properties": {
+        "Mode": "Verus",
+        "Jump Mode": "Low-hop",
+        "Strafe": true,
+        "Speed": 0.35
+      }
+    },
+    "Timer": {
+      "toggled": false,
+      "key": 0,
+      "Properties": {
+        "Speed": 1.0
+      }
+    },
+    "Cape": {
+      "toggled": false,
+      "key": 0,
+      "Properties": {
+        "Style": "Default",
+        "All Players": false
+      }
+    },
+    "HUD": {
+      "toggled": true,
+      "key": 0,
+      "Properties": {
+        "Watermark Settings": true,
+        "Style": "Exhi",
+        "Font": false,
+        "Arraylist Settings": true,
+        "Session Info Settings": true
+      }
+    },
+    "Fly": {
+      "toggled": false,
+      "key": 33,
+      "Properties": {
+        "Mode": "Motion",
+        "Speed": 1.0,
+        "Bobbing": true
+      }
+    }
+  }
+}
